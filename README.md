@@ -31,10 +31,10 @@ Editar
 python conversor.py
 Siga as instruções na tela para converter valores.
 
-Tecnologias usadas
-Python (ou outra linguagem)
+Línguas usadas
+Python
 
-APIs de câmbio (ex: ExchangeRate-API, Open Exchange Rates) — caso use
+APIs de câmbio (ex: ExchangeRate-API)
 
 Contribuição
 Contribuições são bem-vindas. Faça um fork, crie uma branch, faça suas modificações e envie um pull request.
